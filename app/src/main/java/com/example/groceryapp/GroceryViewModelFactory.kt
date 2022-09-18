@@ -1,4 +1,4 @@
-package com.divyanshu.groceryapp
+package com.example.groceryapp
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

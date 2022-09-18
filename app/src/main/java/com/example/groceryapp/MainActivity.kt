@@ -1,4 +1,4 @@
-package com.divyanshu.groceryapp
+package com.example.groceryapp
 
 import android.app.Dialog
 import androidx.appcompat.app.AppCompatActivity
@@ -11,8 +11,6 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import com.google.android.material.snackbar.Snackbar
-import androidx.appcompat.app.AppCompatDelegate as AppCompatDelegate
 
 class MainActivity : AppCompatActivity(),GroceryRVAdapter.GroceryItemClickInterface {
     lateinit var itemRV:RecyclerView

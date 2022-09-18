@@ -1,4 +1,4 @@
-package com.divyanshu.groceryapp
+package com.example.groceryapp
 
 import android.view.LayoutInflater
 import android.view.View
